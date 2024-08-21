@@ -1,0 +1,41 @@
+Id CommandLine
+History of commands used
+   
+   2 cd git-t4
+   3 ls
+   4 git add change-log.md
+   5 git commit -m "changes"
+   6 git push origin main
+   7 git pull origin main
+   8 git add change-log.md
+   9 git commit -m "changes"
+  10 git push origin main
+  11 git pull origin main
+  12 git add change-log.md
+  13 git commit -m "changes"
+  14 git push origin main
+  15 ls
+  16 git add joshuacoutinho.md change-log.md
+  17 git commit -m
+  18 git commit -ma
+  19 git push origin main
+  20 git pull origin main
+  21 git add Joshuacoutinho.md change-log.md
+  22 git commit -m
+  23 git commit -ma
+  24 git push origin main
+  25 git add Joshuacoutinho.md change-log.md
+  26 git commit -m "changes"
+  27 git push origin main
+  28 git add Joshuacoutinho.md change-log.md
+  29 git commit -m "changes"
+  30 git push origin main
+  31 git add Joshuacoutinho.md change-log.md
+  32 git commit -m "changes"
+  33 git push origin main
+  34 git add Joshuacoutinho.md change-log.md
+  35 git commit -m "changes"
+  36 git push origin main
+  37 git add Joshuacoutinho.md change-log.md
+  38 git commit -m "changes"
+  39 git push origin main
