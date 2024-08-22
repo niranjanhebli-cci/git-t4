@@ -1,0 +1,18 @@
+Git commands used 
+
+git add .
+adds all files as it looks now to your next commit.
+
+git commit -m “added readme file” 
+commits the staged changes in the repository. 
+
+git pull
+show all commits in the current branch’s history.
+
+git push 
+Transmit local branch commits to the remote repository branch
+
+git log
+show the commit history for the currently active branch
+
+
